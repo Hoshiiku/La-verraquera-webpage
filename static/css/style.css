@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0.2em;
-  background: linear-gradient(180deg, #4a005ec0 50%, #4a005ec0 50%);
+  background: linear-gradient(180deg, #4a005ec0 50%, #370944c0 50%);
   color: #ffffff;
 }
 
@@ -192,7 +192,7 @@ ul {
 .skills-list {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 80px;
   flex-wrap: wrap;
 }
 
